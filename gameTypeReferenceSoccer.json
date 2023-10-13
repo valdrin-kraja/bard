@@ -1,0 +1,4290 @@
+[
+  {
+      "SportId": 1,
+      "Sport": "Football",
+      "gt": [
+          {
+              "GameTypeId": 14225,
+              "Name": "Late Goal - goal after 75",
+              "Nickname": "LG",
+              "o": [
+                  {
+                      "OutcomeId": 28679,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 28680,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14226,
+              "Name": "Early Goal - goal before min 30",
+              "Nickname": "EG",
+              "o": [
+                  {
+                      "OutcomeId": 28681,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 28682,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14227,
+              "Name": "Corner Kick",
+              "Nickname": "CK",
+              "o": [
+                  {
+                      "OutcomeId": 28683,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28684,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14228,
+              "Name": "Corner Race",
+              "Nickname": "CR",
+              "o": [
+                  {
+                      "OutcomeId": 28685,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28686,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28687,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14229,
+              "Name": "Cards Over Under Team 2",
+              "Nickname": "CAOU T2",
+              "o": [
+                  {
+                      "OutcomeId": 28688,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28689,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14230,
+              "Name": "Cards Over Under Team 1",
+              "Nickname": "CAOU T1",
+              "o": [
+                  {
+                      "OutcomeId": 28690,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28691,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14231,
+              "Name": "Cards Over Under Half 1",
+              "Nickname": "CAOU H1",
+              "o": [
+                  {
+                      "OutcomeId": 28692,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28693,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14232,
+              "Name": "Cards Over Under",
+              "Nickname": "CAOU",
+              "o": [
+                  {
+                      "OutcomeId": 28694,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28695,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14233,
+              "Name": "1x2 or Over Under Half 1",
+              "Nickname": "1x2*OU H1",
+              "o": [
+                  {
+                      "OutcomeId": 28696,
+                      "Outcome": "1\\/O"
+                  },
+                  {
+                      "OutcomeId": 28697,
+                      "Outcome": "2\\/O"
+                  },
+                  {
+                      "OutcomeId": 28698,
+                      "Outcome": "1\\/U"
+                  },
+                  {
+                      "OutcomeId": 28699,
+                      "Outcome": "2\\/U"
+                  },
+                  {
+                      "OutcomeId": 28700,
+                      "Outcome": "X\\/O"
+                  },
+                  {
+                      "OutcomeId": 28701,
+                      "Outcome": "X\\/U"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14234,
+              "Name": "1x2 or Over Under",
+              "Nickname": "1x2*OU",
+              "o": [
+                  {
+                      "OutcomeId": 28702,
+                      "Outcome": "1\\/O"
+                  },
+                  {
+                      "OutcomeId": 28703,
+                      "Outcome": "2\\/O"
+                  },
+                  {
+                      "OutcomeId": 28704,
+                      "Outcome": "1\\/U"
+                  },
+                  {
+                      "OutcomeId": 28705,
+                      "Outcome": "2\\/U"
+                  },
+                  {
+                      "OutcomeId": 28706,
+                      "Outcome": "X\\/O"
+                  },
+                  {
+                      "OutcomeId": 28707,
+                      "Outcome": "X\\/U"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14235,
+              "Name": "1x2 or Both Teams To Score Half 1",
+              "Nickname": "1x2*BTS H1",
+              "o": [
+                  {
+                      "OutcomeId": 28708,
+                      "Outcome": "1\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28709,
+                      "Outcome": "1\\/No"
+                  },
+                  {
+                      "OutcomeId": 28710,
+                      "Outcome": "X\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28711,
+                      "Outcome": "X\\/No"
+                  },
+                  {
+                      "OutcomeId": 28712,
+                      "Outcome": "2\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28713,
+                      "Outcome": "2\\/No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14236,
+              "Name": "1x2 or Both Teams To Score",
+              "Nickname": "1x2*BTS",
+              "o": [
+                  {
+                      "OutcomeId": 28714,
+                      "Outcome": "1\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28715,
+                      "Outcome": "1\\/No"
+                  },
+                  {
+                      "OutcomeId": 28716,
+                      "Outcome": "X\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28717,
+                      "Outcome": "X\\/No"
+                  },
+                  {
+                      "OutcomeId": 28718,
+                      "Outcome": "2\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28719,
+                      "Outcome": "2\\/No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14237,
+              "Name": "1x2 Both Teams To Score Half 1",
+              "Nickname": "1x2 BTS H1",
+              "o": [
+                  {
+                      "OutcomeId": 28720,
+                      "Outcome": "1\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28721,
+                      "Outcome": "1\\/No"
+                  },
+                  {
+                      "OutcomeId": 28722,
+                      "Outcome": "X\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28723,
+                      "Outcome": "X\\/No"
+                  },
+                  {
+                      "OutcomeId": 28724,
+                      "Outcome": "2\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28725,
+                      "Outcome": "2\\/No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14238,
+              "Name": "1x2 Both Teams To Score",
+              "Nickname": "1x2 BTS",
+              "o": [
+                  {
+                      "OutcomeId": 28726,
+                      "Outcome": "1\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28727,
+                      "Outcome": "1\\/No"
+                  },
+                  {
+                      "OutcomeId": 28728,
+                      "Outcome": "X\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28729,
+                      "Outcome": "X\\/No"
+                  },
+                  {
+                      "OutcomeId": 28730,
+                      "Outcome": "2\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28731,
+                      "Outcome": "2\\/No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14239,
+              "Name": "1x2 Over Under Half 1",
+              "Nickname": "1x2 OU H1",
+              "o": [
+                  {
+                      "OutcomeId": 28732,
+                      "Outcome": "1\\/O"
+                  },
+                  {
+                      "OutcomeId": 28733,
+                      "Outcome": "2\\/O"
+                  },
+                  {
+                      "OutcomeId": 28734,
+                      "Outcome": "1\\/U"
+                  },
+                  {
+                      "OutcomeId": 28735,
+                      "Outcome": "2\\/U"
+                  },
+                  {
+                      "OutcomeId": 28736,
+                      "Outcome": "X\\/O"
+                  },
+                  {
+                      "OutcomeId": 28737,
+                      "Outcome": "X\\/U"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14240,
+              "Name": "1x2 Over Under",
+              "Nickname": "1x2 OU",
+              "o": [
+                  {
+                      "OutcomeId": 28738,
+                      "Outcome": "1\\/O"
+                  },
+                  {
+                      "OutcomeId": 28739,
+                      "Outcome": "2\\/O"
+                  },
+                  {
+                      "OutcomeId": 28740,
+                      "Outcome": "1\\/U"
+                  },
+                  {
+                      "OutcomeId": 28741,
+                      "Outcome": "2\\/U"
+                  },
+                  {
+                      "OutcomeId": 28742,
+                      "Outcome": "X\\/O"
+                  },
+                  {
+                      "OutcomeId": 28743,
+                      "Outcome": "X\\/U"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14241,
+              "Name": "Double Chance - Over Under",
+              "Nickname": "DC OU",
+              "o": [
+                  {
+                      "OutcomeId": 28744,
+                      "Outcome": "1X\\/O"
+                  },
+                  {
+                      "OutcomeId": 28745,
+                      "Outcome": "1X\\/U"
+                  },
+                  {
+                      "OutcomeId": 28746,
+                      "Outcome": "12\\/O"
+                  },
+                  {
+                      "OutcomeId": 28747,
+                      "Outcome": "12\\/U"
+                  },
+                  {
+                      "OutcomeId": 28748,
+                      "Outcome": "X2\\/O"
+                  },
+                  {
+                      "OutcomeId": 28749,
+                      "Outcome": "X2\\/U"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14242,
+              "Name": "Double Chance Both Teams to Score",
+              "Nickname": "DC BTS",
+              "o": [
+                  {
+                      "OutcomeId": 28750,
+                      "Outcome": "1X\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28751,
+                      "Outcome": "1X\\/No"
+                  },
+                  {
+                      "OutcomeId": 28752,
+                      "Outcome": "12\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28753,
+                      "Outcome": "12\\/No"
+                  },
+                  {
+                      "OutcomeId": 28754,
+                      "Outcome": "X2\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 28755,
+                      "Outcome": "X2\\/No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14243,
+              "Name": "Double Chance - Over Under Half 1",
+              "Nickname": "DC OU H1",
+              "o": [
+                  {
+                      "OutcomeId": 28756,
+                      "Outcome": "1X\\/O"
+                  },
+                  {
+                      "OutcomeId": 28757,
+                      "Outcome": "1X\\/U"
+                  },
+                  {
+                      "OutcomeId": 28758,
+                      "Outcome": "12\\/O"
+                  },
+                  {
+                      "OutcomeId": 28759,
+                      "Outcome": "12\\/U"
+                  },
+                  {
+                      "OutcomeId": 28760,
+                      "Outcome": "X2\\/O"
+                  },
+                  {
+                      "OutcomeId": 28761,
+                      "Outcome": "X2\\/U"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14244,
+              "Name": "Both Team To Score Over Under",
+              "Nickname": "BTS OU",
+              "o": [
+                  {
+                      "OutcomeId": 28762,
+                      "Outcome": "Yes \\/ Over"
+                  },
+                  {
+                      "OutcomeId": 28763,
+                      "Outcome": "Yes \\/ Under"
+                  },
+                  {
+                      "OutcomeId": 28764,
+                      "Outcome": "No \\/ Over"
+                  },
+                  {
+                      "OutcomeId": 28765,
+                      "Outcome": "No \\/ Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14245,
+              "Name": "ET-1x2",
+              "Nickname": "ET-1x2",
+              "o": [
+                  {
+                      "OutcomeId": 28766,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28767,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28768,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14246,
+              "Name": "ET-1x2 Half 1",
+              "Nickname": "ET-1x2 H1",
+              "o": [
+                  {
+                      "OutcomeId": 28769,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28770,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28771,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14247,
+              "Name": "ET-Asian Handicap",
+              "Nickname": "ET-AH",
+              "o": [
+                  {
+                      "OutcomeId": 28772,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28773,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14248,
+              "Name": "ET-Asian Handicap Half 1",
+              "Nickname": "ET-AH H1",
+              "o": [
+                  {
+                      "OutcomeId": 28774,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28775,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14249,
+              "Name": "ET-Over Under",
+              "Nickname": "ET-OU",
+              "o": [
+                  {
+                      "OutcomeId": 28776,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28777,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14250,
+              "Name": "ET-Over Under Half 1",
+              "Nickname": "ET-OU H1",
+              "o": [
+                  {
+                      "OutcomeId": 28778,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28779,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14251,
+              "Name": "ET-Score 1 Goal",
+              "Nickname": "ET-S1G",
+              "o": [
+                  {
+                      "OutcomeId": 28780,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28781,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28782,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14252,
+              "Name": "ET-Score 1 Goal 1 Half",
+              "Nickname": "ET-S1G 1H",
+              "o": [
+                  {
+                      "OutcomeId": 28783,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28784,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28785,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14253,
+              "Name": "First Goal Method",
+              "Nickname": "FGM",
+              "o": [
+                  {
+                      "OutcomeId": 28786,
+                      "Outcome": "Shot"
+                  },
+                  {
+                      "OutcomeId": 28787,
+                      "Outcome": "Header"
+                  },
+                  {
+                      "OutcomeId": 28788,
+                      "Outcome": "Penalty"
+                  },
+                  {
+                      "OutcomeId": 28789,
+                      "Outcome": "FreeKick"
+                  },
+                  {
+                      "OutcomeId": 28790,
+                      "Outcome": "OwnGoal"
+                  },
+                  {
+                      "OutcomeId": 28791,
+                      "Outcome": "NoGoal"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14254,
+              "Name": "Teams To Score",
+              "Nickname": "TTS",
+              "o": [
+                  {
+                      "OutcomeId": 28792,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28793,
+                      "Outcome": "2"
+                  },
+                  {
+                      "OutcomeId": 28794,
+                      "Outcome": "12"
+                  },
+                  {
+                      "OutcomeId": 28795,
+                      "Outcome": "X"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14255,
+              "Name": "Multiple Correct Score",
+              "Nickname": "MCS",
+              "o": [
+                  {
+                      "OutcomeId": 28796,
+                      "Outcome": "1-0,2-0,3-0"
+                  },
+                  {
+                      "OutcomeId": 28797,
+                      "Outcome": "2-1,3-1,4-1"
+                  },
+                  {
+                      "OutcomeId": 28798,
+                      "Outcome": "3-2,4-2,4-3"
+                  },
+                  {
+                      "OutcomeId": 28799,
+                      "Outcome": "0-1,0-2,0-3"
+                  },
+                  {
+                      "OutcomeId": 28800,
+                      "Outcome": "1-2,1-3,1-4"
+                  },
+                  {
+                      "OutcomeId": 28801,
+                      "Outcome": "2-3,2-4,3-4"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14256,
+              "Name": "Own Goal",
+              "Nickname": "OG",
+              "o": [
+                  {
+                      "OutcomeId": 28802,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 28803,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14257,
+              "Name": "Penalty Awarded",
+              "Nickname": "PA",
+              "o": [
+                  {
+                      "OutcomeId": 28804,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 28805,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14258,
+              "Name": "Red Card In The Match",
+              "Nickname": "RCARD",
+              "o": [
+                  {
+                      "OutcomeId": 28806,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 28807,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14259,
+              "Name": "Clean Sheet",
+              "Nickname": "CSH",
+              "o": [
+                  {
+                      "OutcomeId": 28808,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28809,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14260,
+              "Name": "Win To Nil",
+              "Nickname": "WTN",
+              "o": [
+                  {
+                      "OutcomeId": 28810,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28811,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14261,
+              "Name": "To Win Both Halves",
+              "Nickname": "TWBH",
+              "o": [
+                  {
+                      "OutcomeId": 28812,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28813,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14262,
+              "Name": "To Score In Both Halves",
+              "Nickname": "SBH2",
+              "o": [
+                  {
+                      "OutcomeId": 28814,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28815,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14263,
+              "Name": "Highest Scoring Half",
+              "Nickname": "HSH",
+              "o": [
+                  {
+                      "OutcomeId": 28816,
+                      "Outcome": "H1"
+                  },
+                  {
+                      "OutcomeId": 28817,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28818,
+                      "Outcome": "H2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14264,
+              "Name": "To Score Goal T1",
+              "Nickname": "TSG T1",
+              "o": [
+                  {
+                      "OutcomeId": 28819,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 28820,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14265,
+              "Name": "To Score Goal T2",
+              "Nickname": "TSG T2",
+              "o": [
+                  {
+                      "OutcomeId": 28821,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 28822,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14266,
+              "Name": "Winning Margin by 1 Goal",
+              "Nickname": "WM1G",
+              "o": [
+                  {
+                      "OutcomeId": 28823,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 28824,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14267,
+              "Name": "Winning Margin by 2 Goals",
+              "Nickname": "WM2G",
+              "o": [
+                  {
+                      "OutcomeId": 28825,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 28826,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14268,
+              "Name": "Winning Margin by 3 Goals",
+              "Nickname": "WM3G",
+              "o": [
+                  {
+                      "OutcomeId": 28827,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 28828,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14269,
+              "Name": "Goal Race",
+              "Nickname": "GR",
+              "o": [
+                  {
+                      "OutcomeId": 28829,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28830,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28831,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14270,
+              "Name": "First Goal Interval 10 Minutes",
+              "Nickname": "FGI10M",
+              "o": [
+                  {
+                      "OutcomeId": 28832,
+                      "Outcome": "1-10"
+                  },
+                  {
+                      "OutcomeId": 28833,
+                      "Outcome": "11-20"
+                  },
+                  {
+                      "OutcomeId": 28834,
+                      "Outcome": "21-30"
+                  },
+                  {
+                      "OutcomeId": 28835,
+                      "Outcome": "31-40"
+                  },
+                  {
+                      "OutcomeId": 28836,
+                      "Outcome": "41-50"
+                  },
+                  {
+                      "OutcomeId": 28837,
+                      "Outcome": "51-60"
+                  },
+                  {
+                      "OutcomeId": 28838,
+                      "Outcome": "61-70"
+                  },
+                  {
+                      "OutcomeId": 28839,
+                      "Outcome": "71-80"
+                  },
+                  {
+                      "OutcomeId": 28840,
+                      "Outcome": "81-FT"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14271,
+              "Name": "First Goal Interval 15 Minutes",
+              "Nickname": "FGI15M",
+              "o": [
+                  {
+                      "OutcomeId": 28841,
+                      "Outcome": "1-15"
+                  },
+                  {
+                      "OutcomeId": 28842,
+                      "Outcome": "16-30"
+                  },
+                  {
+                      "OutcomeId": 28843,
+                      "Outcome": "30-HT"
+                  },
+                  {
+                      "OutcomeId": 28844,
+                      "Outcome": "HT-60"
+                  },
+                  {
+                      "OutcomeId": 28845,
+                      "Outcome": "61-75"
+                  },
+                  {
+                      "OutcomeId": 28846,
+                      "Outcome": "75-FT"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14272,
+              "Name": "Winning Group",
+              "Nickname": "WG",
+              "o": [
+                  {
+                      "OutcomeId": 28847,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14273,
+              "Name": "Winning Nation",
+              "Nickname": "WN",
+              "o": [
+                  {
+                      "OutcomeId": 28848,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14274,
+              "Name": "Winning Continent",
+              "Nickname": "WC",
+              "o": [
+                  {
+                      "OutcomeId": 28849,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14275,
+              "Name": "To Reach Quarter-Final",
+              "Nickname": "TRQF",
+              "o": [
+                  {
+                      "OutcomeId": 28850,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14276,
+              "Name": "To Reach Semi-Final",
+              "Nickname": "TRSF",
+              "o": [
+                  {
+                      "OutcomeId": 28851,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14277,
+              "Name": "To Win Outright",
+              "Nickname": "TWO",
+              "o": [
+                  {
+                      "OutcomeId": 28852,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14278,
+              "Name": "Top Goalscorer",
+              "Nickname": "TGS",
+              "o": [
+                  {
+                      "OutcomeId": 28853,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14279,
+              "Name": "Most Goals",
+              "Nickname": "MG",
+              "o": [
+                  {
+                      "OutcomeId": 28854,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14280,
+              "Name": "To Reach Final",
+              "Nickname": "TRF",
+              "o": [
+                  {
+                      "OutcomeId": 28855,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14281,
+              "Name": "Finalist Couple",
+              "Nickname": "FC",
+              "o": [
+                  {
+                      "OutcomeId": 28856,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14282,
+              "Name": "Golden Ball Award",
+              "Nickname": "GBA",
+              "o": [
+                  {
+                      "OutcomeId": 28857,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14283,
+              "Name": "1x2 Corners",
+              "Nickname": "1x2 C",
+              "o": [
+                  {
+                      "OutcomeId": 28858,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28859,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28860,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14284,
+              "Name": "1x2 Corners Half 1",
+              "Nickname": "1x2 C H1",
+              "o": [
+                  {
+                      "OutcomeId": 28861,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28862,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28863,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14285,
+              "Name": "1x2 Corners Half 2",
+              "Nickname": "1x2 C H2",
+              "o": [
+                  {
+                      "OutcomeId": 28864,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28865,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28866,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14286,
+              "Name": "First Corner Kick",
+              "Nickname": "FCK",
+              "o": [
+                  {
+                      "OutcomeId": 28867,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28868,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14287,
+              "Name": "Last Corner Kick",
+              "Nickname": "LCK",
+              "o": [
+                  {
+                      "OutcomeId": 28869,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28870,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14288,
+              "Name": "Asian Corner",
+              "Nickname": "AC",
+              "o": [
+                  {
+                      "OutcomeId": 28871,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28872,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14289,
+              "Name": "Asian Corner Half 1",
+              "Nickname": "AC H1",
+              "o": [
+                  {
+                      "OutcomeId": 28873,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28874,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14290,
+              "Name": "Corners Over Under",
+              "Nickname": "COU",
+              "o": [
+                  {
+                      "OutcomeId": 28875,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28876,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14291,
+              "Name": "Corners Over Under Half 1",
+              "Nickname": "COU H1",
+              "o": [
+                  {
+                      "OutcomeId": 28877,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28878,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14292,
+              "Name": "Corner Line",
+              "Nickname": "CL",
+              "o": [
+                  {
+                      "OutcomeId": 28879,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28880,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14293,
+              "Name": "Corner Line Half 1",
+              "Nickname": "CL H1",
+              "o": [
+                  {
+                      "OutcomeId": 28881,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28882,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14294,
+              "Name": "Corners 3 way",
+              "Nickname": "C3W",
+              "o": [
+                  {
+                      "OutcomeId": 28883,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28884,
+                      "Outcome": "Exactly"
+                  },
+                  {
+                      "OutcomeId": 28885,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14295,
+              "Name": "Corners 3 way Half 1",
+              "Nickname": "C3W H1",
+              "o": [
+                  {
+                      "OutcomeId": 28886,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28887,
+                      "Outcome": "Exactly"
+                  },
+                  {
+                      "OutcomeId": 28888,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14296,
+              "Name": "Asian Handicap",
+              "Nickname": "AH",
+              "o": [
+                  {
+                      "OutcomeId": 28889,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28890,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14297,
+              "Name": "Asian Handicap Half 1",
+              "Nickname": "AH H1",
+              "o": [
+                  {
+                      "OutcomeId": 28891,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28892,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14298,
+              "Name": "European Handicap",
+              "Nickname": "EH",
+              "o": [
+                  {
+                      "OutcomeId": 28893,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28894,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28895,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14299,
+              "Name": "European Handicap Half 1",
+              "Nickname": "EH H1",
+              "o": [
+                  {
+                      "OutcomeId": 28896,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28897,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 28898,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14300,
+              "Name": "Over Under",
+              "Nickname": "OU",
+              "o": [
+                  {
+                      "OutcomeId": 28899,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28900,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14301,
+              "Name": "Over Under Half 1",
+              "Nickname": "OU H1",
+              "o": [
+                  {
+                      "OutcomeId": 28901,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28902,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14302,
+              "Name": "Over Under Half 2",
+              "Nickname": "OU H2",
+              "o": [
+                  {
+                      "OutcomeId": 28903,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28904,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14303,
+              "Name": "Over Under Line",
+              "Nickname": "OUL",
+              "o": [
+                  {
+                      "OutcomeId": 28905,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28906,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14304,
+              "Name": "Over Under Line Half 1",
+              "Nickname": "OUL H1",
+              "o": [
+                  {
+                      "OutcomeId": 28907,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28908,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14305,
+              "Name": "Over Under T1",
+              "Nickname": "OU T1",
+              "o": [
+                  {
+                      "OutcomeId": 28909,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28910,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14306,
+              "Name": "Over Under T1 Half 1",
+              "Nickname": "OU T1 H1",
+              "o": [
+                  {
+                      "OutcomeId": 28911,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28912,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14307,
+              "Name": "Over Under T1 Half 2",
+              "Nickname": "OU T1 H2",
+              "o": [
+                  {
+                      "OutcomeId": 28913,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28914,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14308,
+              "Name": "Over Under T2",
+              "Nickname": "OU T2",
+              "o": [
+                  {
+                      "OutcomeId": 28915,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28916,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14309,
+              "Name": "Over Under T2 Half 1",
+              "Nickname": "OU T2 H1",
+              "o": [
+                  {
+                      "OutcomeId": 28917,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28918,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14310,
+              "Name": "Over Under T2 Half 2",
+              "Nickname": "OU T2 H2",
+              "o": [
+                  {
+                      "OutcomeId": 28919,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28920,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14311,
+              "Name": "Over Under 0-15",
+              "Nickname": "OU_0_15",
+              "o": [
+                  {
+                      "OutcomeId": 28921,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28922,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14312,
+              "Name": "Over Under 15-30",
+              "Nickname": "OU_15_30",
+              "o": [
+                  {
+                      "OutcomeId": 28923,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28924,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14313,
+              "Name": "Over Under 30-45",
+              "Nickname": "OU_30_45",
+              "o": [
+                  {
+                      "OutcomeId": 28925,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28926,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14314,
+              "Name": "Over Under 45-60",
+              "Nickname": "OU_45_60",
+              "o": [
+                  {
+                      "OutcomeId": 28927,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28928,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14315,
+              "Name": "Over Under 60-75",
+              "Nickname": "OU_60_75",
+              "o": [
+                  {
+                      "OutcomeId": 28929,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28930,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14316,
+              "Name": "Over Under 75-90",
+              "Nickname": "OU_75_90",
+              "o": [
+                  {
+                      "OutcomeId": 28931,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28932,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14317,
+              "Name": "Over Under 0-30",
+              "Nickname": "OU_0_30",
+              "o": [
+                  {
+                      "OutcomeId": 28933,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28934,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14318,
+              "Name": "Over Under 30-60",
+              "Nickname": "OU_30_60",
+              "o": [
+                  {
+                      "OutcomeId": 28935,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28936,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14319,
+              "Name": "Over Under 60-90",
+              "Nickname": "OU_60_90",
+              "o": [
+                  {
+                      "OutcomeId": 28937,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 28938,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14320,
+              "Name": "Total Goals V1",
+              "Nickname": "TG V1",
+              "o": [
+                  {
+                      "OutcomeId": 28939,
+                      "Outcome": "0"
+                  },
+                  {
+                      "OutcomeId": 28940,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28941,
+                      "Outcome": "2"
+                  },
+                  {
+                      "OutcomeId": 28942,
+                      "Outcome": "3"
+                  },
+                  {
+                      "OutcomeId": 28943,
+                      "Outcome": "4"
+                  },
+                  {
+                      "OutcomeId": 28944,
+                      "Outcome": "5"
+                  },
+                  {
+                      "OutcomeId": 28945,
+                      "Outcome": "6+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14321,
+              "Name": "Total Goals V2",
+              "Nickname": "TG V2",
+              "o": [
+                  {
+                      "OutcomeId": 28946,
+                      "Outcome": "0"
+                  },
+                  {
+                      "OutcomeId": 28947,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28948,
+                      "Outcome": "2"
+                  },
+                  {
+                      "OutcomeId": 28949,
+                      "Outcome": "3"
+                  },
+                  {
+                      "OutcomeId": 28950,
+                      "Outcome": "4"
+                  },
+                  {
+                      "OutcomeId": 28951,
+                      "Outcome": "5"
+                  },
+                  {
+                      "OutcomeId": 28952,
+                      "Outcome": "6"
+                  },
+                  {
+                      "OutcomeId": 28953,
+                      "Outcome": "7+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14322,
+              "Name": "Total Goals V2",
+              "Nickname": "TG V3",
+              "o": [
+                  {
+                      "OutcomeId": 28954,
+                      "Outcome": "0-1"
+                  },
+                  {
+                      "OutcomeId": 28955,
+                      "Outcome": "0-2"
+                  },
+                  {
+                      "OutcomeId": 28956,
+                      "Outcome": "2-3"
+                  },
+                  {
+                      "OutcomeId": 28957,
+                      "Outcome": "3+"
+                  },
+                  {
+                      "OutcomeId": 28958,
+                      "Outcome": "4+"
+                  },
+                  {
+                      "OutcomeId": 28959,
+                      "Outcome": "4-6"
+                  },
+                  {
+                      "OutcomeId": 28960,
+                      "Outcome": "7+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14323,
+              "Name": "Total Goals V4",
+              "Nickname": "TG V4",
+              "o": [
+                  {
+                      "OutcomeId": 28961,
+                      "Outcome": "0-1"
+                  },
+                  {
+                      "OutcomeId": 28962,
+                      "Outcome": "2-3"
+                  },
+                  {
+                      "OutcomeId": 28963,
+                      "Outcome": "4-5"
+                  },
+                  {
+                      "OutcomeId": 28964,
+                      "Outcome": "6+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14324,
+              "Name": "Total Goals V5",
+              "Nickname": "TG V5",
+              "o": [
+                  {
+                      "OutcomeId": 28965,
+                      "Outcome": "0-1"
+                  },
+                  {
+                      "OutcomeId": 28966,
+                      "Outcome": "2-3"
+                  },
+                  {
+                      "OutcomeId": 28967,
+                      "Outcome": "4+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14325,
+              "Name": "Total Goals V6",
+              "Nickname": "TG V6",
+              "o": [
+                  {
+                      "OutcomeId": 28968,
+                      "Outcome": "1-2"
+                  },
+                  {
+                      "OutcomeId": 28969,
+                      "Outcome": "1-3"
+                  },
+                  {
+                      "OutcomeId": 28970,
+                      "Outcome": "1-4"
+                  },
+                  {
+                      "OutcomeId": 28971,
+                      "Outcome": "2-3"
+                  },
+                  {
+                      "OutcomeId": 28972,
+                      "Outcome": "2-4"
+                  },
+                  {
+                      "OutcomeId": 28973,
+                      "Outcome": "2-5"
+                  },
+                  {
+                      "OutcomeId": 28974,
+                      "Outcome": "3-4"
+                  },
+                  {
+                      "OutcomeId": 28975,
+                      "Outcome": "3-5"
+                  },
+                  {
+                      "OutcomeId": 28976,
+                      "Outcome": "3-6"
+                  },
+                  {
+                      "OutcomeId": 28977,
+                      "Outcome": "4-5"
+                  },
+                  {
+                      "OutcomeId": 28978,
+                      "Outcome": "4-6"
+                  },
+                  {
+                      "OutcomeId": 28979,
+                      "Outcome": "5-6"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14326,
+              "Name": "Total Goals Half 1",
+              "Nickname": "TG H1",
+              "o": [
+                  {
+                      "OutcomeId": 28980,
+                      "Outcome": "0"
+                  },
+                  {
+                      "OutcomeId": 28981,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28982,
+                      "Outcome": "2"
+                  },
+                  {
+                      "OutcomeId": 28983,
+                      "Outcome": "3+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14327,
+              "Name": "Total Goals Half 2",
+              "Nickname": "TG H2",
+              "o": [
+                  {
+                      "OutcomeId": 28984,
+                      "Outcome": "0"
+                  },
+                  {
+                      "OutcomeId": 28985,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28986,
+                      "Outcome": "2"
+                  },
+                  {
+                      "OutcomeId": 28987,
+                      "Outcome": "3+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14328,
+              "Name": "Total Goals Team 1",
+              "Nickname": "TG T1",
+              "o": [
+                  {
+                      "OutcomeId": 28988,
+                      "Outcome": "0"
+                  },
+                  {
+                      "OutcomeId": 28989,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28990,
+                      "Outcome": "2"
+                  },
+                  {
+                      "OutcomeId": 28991,
+                      "Outcome": "3+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14329,
+              "Name": "Total Goals Team 2",
+              "Nickname": "TG T2",
+              "o": [
+                  {
+                      "OutcomeId": 28992,
+                      "Outcome": "0"
+                  },
+                  {
+                      "OutcomeId": 28993,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 28994,
+                      "Outcome": "2"
+                  },
+                  {
+                      "OutcomeId": 28995,
+                      "Outcome": "3+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14330,
+              "Name": "Correct Score",
+              "Nickname": "CS",
+              "o": [
+                  {
+                      "OutcomeId": 28996,
+                      "Outcome": "1:0"
+                  },
+                  {
+                      "OutcomeId": 28997,
+                      "Outcome": "2:0"
+                  },
+                  {
+                      "OutcomeId": 28998,
+                      "Outcome": "2:1"
+                  },
+                  {
+                      "OutcomeId": 28999,
+                      "Outcome": "3:0"
+                  },
+                  {
+                      "OutcomeId": 29000,
+                      "Outcome": "3:1"
+                  },
+                  {
+                      "OutcomeId": 29001,
+                      "Outcome": "3:2"
+                  },
+                  {
+                      "OutcomeId": 29002,
+                      "Outcome": "4:0"
+                  },
+                  {
+                      "OutcomeId": 29003,
+                      "Outcome": "4:1"
+                  },
+                  {
+                      "OutcomeId": 29004,
+                      "Outcome": "4:2"
+                  },
+                  {
+                      "OutcomeId": 29005,
+                      "Outcome": "4:3"
+                  },
+                  {
+                      "OutcomeId": 29006,
+                      "Outcome": "5:0"
+                  },
+                  {
+                      "OutcomeId": 29007,
+                      "Outcome": "5:1"
+                  },
+                  {
+                      "OutcomeId": 29008,
+                      "Outcome": "5:2"
+                  },
+                  {
+                      "OutcomeId": 29009,
+                      "Outcome": "5:3"
+                  },
+                  {
+                      "OutcomeId": 29010,
+                      "Outcome": "5:4"
+                  },
+                  {
+                      "OutcomeId": 29011,
+                      "Outcome": "6:0"
+                  },
+                  {
+                      "OutcomeId": 29012,
+                      "Outcome": "6:1"
+                  },
+                  {
+                      "OutcomeId": 29013,
+                      "Outcome": "6:2"
+                  },
+                  {
+                      "OutcomeId": 29014,
+                      "Outcome": "6:3"
+                  },
+                  {
+                      "OutcomeId": 29015,
+                      "Outcome": "7:0"
+                  },
+                  {
+                      "OutcomeId": 29016,
+                      "Outcome": "7:1"
+                  },
+                  {
+                      "OutcomeId": 29017,
+                      "Outcome": "7:2"
+                  },
+                  {
+                      "OutcomeId": 29018,
+                      "Outcome": "8:0"
+                  },
+                  {
+                      "OutcomeId": 29019,
+                      "Outcome": "8:1"
+                  },
+                  {
+                      "OutcomeId": 29020,
+                      "Outcome": "9:0"
+                  },
+                  {
+                      "OutcomeId": 29021,
+                      "Outcome": "10:0"
+                  },
+                  {
+                      "OutcomeId": 29022,
+                      "Outcome": "0:0"
+                  },
+                  {
+                      "OutcomeId": 29023,
+                      "Outcome": "1:1"
+                  },
+                  {
+                      "OutcomeId": 29024,
+                      "Outcome": "2:2"
+                  },
+                  {
+                      "OutcomeId": 29025,
+                      "Outcome": "3:3"
+                  },
+                  {
+                      "OutcomeId": 29026,
+                      "Outcome": "4:4"
+                  },
+                  {
+                      "OutcomeId": 29027,
+                      "Outcome": "5:5"
+                  },
+                  {
+                      "OutcomeId": 29028,
+                      "Outcome": "6:6"
+                  },
+                  {
+                      "OutcomeId": 29029,
+                      "Outcome": "0:1"
+                  },
+                  {
+                      "OutcomeId": 29030,
+                      "Outcome": "0:2"
+                  },
+                  {
+                      "OutcomeId": 29031,
+                      "Outcome": "1:2"
+                  },
+                  {
+                      "OutcomeId": 29032,
+                      "Outcome": "0:3"
+                  },
+                  {
+                      "OutcomeId": 29033,
+                      "Outcome": "1:3"
+                  },
+                  {
+                      "OutcomeId": 29034,
+                      "Outcome": "2:3"
+                  },
+                  {
+                      "OutcomeId": 29035,
+                      "Outcome": "0:4"
+                  },
+                  {
+                      "OutcomeId": 29036,
+                      "Outcome": "1:4"
+                  },
+                  {
+                      "OutcomeId": 29037,
+                      "Outcome": "2:4"
+                  },
+                  {
+                      "OutcomeId": 29038,
+                      "Outcome": "3:4"
+                  },
+                  {
+                      "OutcomeId": 29039,
+                      "Outcome": "0:5"
+                  },
+                  {
+                      "OutcomeId": 29040,
+                      "Outcome": "1:5"
+                  },
+                  {
+                      "OutcomeId": 29041,
+                      "Outcome": "2:5"
+                  },
+                  {
+                      "OutcomeId": 29042,
+                      "Outcome": "3:5"
+                  },
+                  {
+                      "OutcomeId": 29043,
+                      "Outcome": "4:5"
+                  },
+                  {
+                      "OutcomeId": 29044,
+                      "Outcome": "0:6"
+                  },
+                  {
+                      "OutcomeId": 29045,
+                      "Outcome": "1:6"
+                  },
+                  {
+                      "OutcomeId": 29046,
+                      "Outcome": "2:6"
+                  },
+                  {
+                      "OutcomeId": 29047,
+                      "Outcome": "3:6"
+                  },
+                  {
+                      "OutcomeId": 29048,
+                      "Outcome": "0:7"
+                  },
+                  {
+                      "OutcomeId": 29049,
+                      "Outcome": "1:7"
+                  },
+                  {
+                      "OutcomeId": 29050,
+                      "Outcome": "2:7"
+                  },
+                  {
+                      "OutcomeId": 29051,
+                      "Outcome": "0:8"
+                  },
+                  {
+                      "OutcomeId": 29052,
+                      "Outcome": "1:8"
+                  },
+                  {
+                      "OutcomeId": 29053,
+                      "Outcome": "0:9"
+                  },
+                  {
+                      "OutcomeId": 29054,
+                      "Outcome": "0:10"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14331,
+              "Name": "Correct Score Half 1",
+              "Nickname": "CS H1",
+              "o": [
+                  {
+                      "OutcomeId": 29055,
+                      "Outcome": "1:0"
+                  },
+                  {
+                      "OutcomeId": 29056,
+                      "Outcome": "2:0"
+                  },
+                  {
+                      "OutcomeId": 29057,
+                      "Outcome": "2:1"
+                  },
+                  {
+                      "OutcomeId": 29058,
+                      "Outcome": "3:0"
+                  },
+                  {
+                      "OutcomeId": 29059,
+                      "Outcome": "3:1"
+                  },
+                  {
+                      "OutcomeId": 29060,
+                      "Outcome": "3:2"
+                  },
+                  {
+                      "OutcomeId": 29061,
+                      "Outcome": "4:0"
+                  },
+                  {
+                      "OutcomeId": 29062,
+                      "Outcome": "4:1"
+                  },
+                  {
+                      "OutcomeId": 29063,
+                      "Outcome": "4:2"
+                  },
+                  {
+                      "OutcomeId": 29064,
+                      "Outcome": "4:3"
+                  },
+                  {
+                      "OutcomeId": 29065,
+                      "Outcome": "5:0"
+                  },
+                  {
+                      "OutcomeId": 29066,
+                      "Outcome": "5:1"
+                  },
+                  {
+                      "OutcomeId": 29067,
+                      "Outcome": "5:2"
+                  },
+                  {
+                      "OutcomeId": 29068,
+                      "Outcome": "5:3"
+                  },
+                  {
+                      "OutcomeId": 29069,
+                      "Outcome": "5:4"
+                  },
+                  {
+                      "OutcomeId": 29070,
+                      "Outcome": "6:0"
+                  },
+                  {
+                      "OutcomeId": 29071,
+                      "Outcome": "6:1"
+                  },
+                  {
+                      "OutcomeId": 29072,
+                      "Outcome": "6:2"
+                  },
+                  {
+                      "OutcomeId": 29073,
+                      "Outcome": "6:3"
+                  },
+                  {
+                      "OutcomeId": 29074,
+                      "Outcome": "7:0"
+                  },
+                  {
+                      "OutcomeId": 29075,
+                      "Outcome": "7:1"
+                  },
+                  {
+                      "OutcomeId": 29076,
+                      "Outcome": "7:2"
+                  },
+                  {
+                      "OutcomeId": 29077,
+                      "Outcome": "8:0"
+                  },
+                  {
+                      "OutcomeId": 29078,
+                      "Outcome": "8:1"
+                  },
+                  {
+                      "OutcomeId": 29079,
+                      "Outcome": "9:0"
+                  },
+                  {
+                      "OutcomeId": 29080,
+                      "Outcome": "10:0"
+                  },
+                  {
+                      "OutcomeId": 29081,
+                      "Outcome": "0:0"
+                  },
+                  {
+                      "OutcomeId": 29082,
+                      "Outcome": "1:1"
+                  },
+                  {
+                      "OutcomeId": 29083,
+                      "Outcome": "2:2"
+                  },
+                  {
+                      "OutcomeId": 29084,
+                      "Outcome": "3:3"
+                  },
+                  {
+                      "OutcomeId": 29085,
+                      "Outcome": "4:4"
+                  },
+                  {
+                      "OutcomeId": 29086,
+                      "Outcome": "5:5"
+                  },
+                  {
+                      "OutcomeId": 29087,
+                      "Outcome": "6:6"
+                  },
+                  {
+                      "OutcomeId": 29088,
+                      "Outcome": "0:1"
+                  },
+                  {
+                      "OutcomeId": 29089,
+                      "Outcome": "0:2"
+                  },
+                  {
+                      "OutcomeId": 29090,
+                      "Outcome": "1:2"
+                  },
+                  {
+                      "OutcomeId": 29091,
+                      "Outcome": "0:3"
+                  },
+                  {
+                      "OutcomeId": 29092,
+                      "Outcome": "1:3"
+                  },
+                  {
+                      "OutcomeId": 29093,
+                      "Outcome": "2:3"
+                  },
+                  {
+                      "OutcomeId": 29094,
+                      "Outcome": "0:4"
+                  },
+                  {
+                      "OutcomeId": 29095,
+                      "Outcome": "1:4"
+                  },
+                  {
+                      "OutcomeId": 29096,
+                      "Outcome": "2:4"
+                  },
+                  {
+                      "OutcomeId": 29097,
+                      "Outcome": "3:4"
+                  },
+                  {
+                      "OutcomeId": 29098,
+                      "Outcome": "0:5"
+                  },
+                  {
+                      "OutcomeId": 29099,
+                      "Outcome": "1:5"
+                  },
+                  {
+                      "OutcomeId": 29100,
+                      "Outcome": "2:5"
+                  },
+                  {
+                      "OutcomeId": 29101,
+                      "Outcome": "3:5"
+                  },
+                  {
+                      "OutcomeId": 29102,
+                      "Outcome": "4:5"
+                  },
+                  {
+                      "OutcomeId": 29103,
+                      "Outcome": "0:6"
+                  },
+                  {
+                      "OutcomeId": 29104,
+                      "Outcome": "1:6"
+                  },
+                  {
+                      "OutcomeId": 29105,
+                      "Outcome": "2:6"
+                  },
+                  {
+                      "OutcomeId": 29106,
+                      "Outcome": "3:6"
+                  },
+                  {
+                      "OutcomeId": 29107,
+                      "Outcome": "0:7"
+                  },
+                  {
+                      "OutcomeId": 29108,
+                      "Outcome": "1:7"
+                  },
+                  {
+                      "OutcomeId": 29109,
+                      "Outcome": "2:7"
+                  },
+                  {
+                      "OutcomeId": 29110,
+                      "Outcome": "0:8"
+                  },
+                  {
+                      "OutcomeId": 29111,
+                      "Outcome": "1:8"
+                  },
+                  {
+                      "OutcomeId": 29112,
+                      "Outcome": "0:9"
+                  },
+                  {
+                      "OutcomeId": 29113,
+                      "Outcome": "0:10"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14332,
+              "Name": "First Team to Score Half 1",
+              "Nickname": "FTS H1",
+              "o": [
+                  {
+                      "OutcomeId": 29114,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29115,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29116,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14333,
+              "Name": "Shenon Golin e 1 Pjesa 1",
+              "Nickname": "SG1 P1",
+              "o": [
+                  {
+                      "OutcomeId": 29117,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29118,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29119,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14334,
+              "Name": "Shenon Golin e 2 Pjesa 1",
+              "Nickname": "SG2 P1",
+              "o": [
+                  {
+                      "OutcomeId": 29120,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29121,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29122,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14335,
+              "Name": "Shenon Golin e 3 Pjesa 1",
+              "Nickname": "SG3 P1",
+              "o": [
+                  {
+                      "OutcomeId": 29123,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29124,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29125,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14336,
+              "Name": "Shenon Golin e 4 Pjesa 1",
+              "Nickname": "SG4 P1",
+              "o": [
+                  {
+                      "OutcomeId": 29126,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29127,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29128,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14337,
+              "Name": "Shenon Golin e 5 Pjesa 1",
+              "Nickname": "SG5 P1",
+              "o": [
+                  {
+                      "OutcomeId": 29129,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29130,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29131,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14338,
+              "Name": "Shenon Golin e 6 Pjesa 1",
+              "Nickname": "SG6 P1",
+              "o": [
+                  {
+                      "OutcomeId": 29132,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29133,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29134,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14339,
+              "Name": "Shenon Golin e 7 Pjesa 1",
+              "Nickname": "SG7 P1",
+              "o": [
+                  {
+                      "OutcomeId": 29135,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29136,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29137,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14340,
+              "Name": "Shenon Golin e 8 Pjesa 1",
+              "Nickname": "SG8 P1",
+              "o": [
+                  {
+                      "OutcomeId": 29138,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29139,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29140,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14341,
+              "Name": "Shenon Golin e 9 Pjesa 1",
+              "Nickname": "SG9 P1",
+              "o": [
+                  {
+                      "OutcomeId": 29141,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29142,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29143,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14342,
+              "Name": "To Qualify",
+              "Nickname": "TQ",
+              "o": [
+                  {
+                      "OutcomeId": 29144,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29145,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14343,
+              "Name": "Trophy Winner",
+              "Nickname": "TW",
+              "o": [
+                  {
+                      "OutcomeId": 29146,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29147,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14344,
+              "Name": "Odd Even",
+              "Nickname": "OE",
+              "o": [
+                  {
+                      "OutcomeId": 29148,
+                      "Outcome": "Odd"
+                  },
+                  {
+                      "OutcomeId": 29149,
+                      "Outcome": "Even"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14345,
+              "Name": "Odd Even Half 1",
+              "Nickname": "OE H1",
+              "o": [
+                  {
+                      "OutcomeId": 29150,
+                      "Outcome": "Odd"
+                  },
+                  {
+                      "OutcomeId": 29151,
+                      "Outcome": "Even"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14346,
+              "Name": "Odd Even Half 2",
+              "Nickname": "OE H2",
+              "o": [
+                  {
+                      "OutcomeId": 29152,
+                      "Outcome": "Odd"
+                  },
+                  {
+                      "OutcomeId": 29153,
+                      "Outcome": "Even"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14347,
+              "Name": "Odd Even Team 1",
+              "Nickname": "OE T1",
+              "o": [
+                  {
+                      "OutcomeId": 29154,
+                      "Outcome": "Odd"
+                  },
+                  {
+                      "OutcomeId": 29155,
+                      "Outcome": "Even"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14348,
+              "Name": "Odd Even Team 2",
+              "Nickname": "OE T2",
+              "o": [
+                  {
+                      "OutcomeId": 29156,
+                      "Outcome": "Odd"
+                  },
+                  {
+                      "OutcomeId": 29157,
+                      "Outcome": "Even"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14349,
+              "Name": "Draw No Bet",
+              "Nickname": "DNB",
+              "o": [
+                  {
+                      "OutcomeId": 29158,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29159,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14350,
+              "Name": "Draw No Bet Half 1",
+              "Nickname": "DNB H1",
+              "o": [
+                  {
+                      "OutcomeId": 29160,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29161,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14351,
+              "Name": "Draw No Bet Half 2",
+              "Nickname": "DNB H2",
+              "o": [
+                  {
+                      "OutcomeId": 29162,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29163,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14352,
+              "Name": "Both Teams To Score",
+              "Nickname": "BTS",
+              "o": [
+                  {
+                      "OutcomeId": 29164,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 29165,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14353,
+              "Name": "Both Teams To Score Half 1",
+              "Nickname": "BTS H1",
+              "o": [
+                  {
+                      "OutcomeId": 29166,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 29167,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14354,
+              "Name": "Both Teams To Score Half 2",
+              "Nickname": "BTS H2",
+              "o": [
+                  {
+                      "OutcomeId": 29168,
+                      "Outcome": "Yes"
+                  },
+                  {
+                      "OutcomeId": 29169,
+                      "Outcome": "No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14355,
+              "Name": "Both Team To Score Half 1 \\/ Half 2",
+              "Nickname": "BTS H1\\/H2",
+              "o": [
+                  {
+                      "OutcomeId": 29170,
+                      "Outcome": "Yes\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 29171,
+                      "Outcome": "Yes\\/No"
+                  },
+                  {
+                      "OutcomeId": 29172,
+                      "Outcome": "No\\/Yes"
+                  },
+                  {
+                      "OutcomeId": 29173,
+                      "Outcome": "No\\/No"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14356,
+              "Name": "First Team to Score",
+              "Nickname": "FTS",
+              "o": [
+                  {
+                      "OutcomeId": 29174,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29175,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29176,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14357,
+              "Name": "First Team To Score - 1x2",
+              "Nickname": "FTS-1x2",
+              "o": [
+                  {
+                      "OutcomeId": 29177,
+                      "Outcome": "1\\/1"
+                  },
+                  {
+                      "OutcomeId": 29178,
+                      "Outcome": "1\\/X"
+                  },
+                  {
+                      "OutcomeId": 29179,
+                      "Outcome": "1\\/2"
+                  },
+                  {
+                      "OutcomeId": 29180,
+                      "Outcome": "2\\/1"
+                  },
+                  {
+                      "OutcomeId": 29181,
+                      "Outcome": "2\\/X"
+                  },
+                  {
+                      "OutcomeId": 29182,
+                      "Outcome": "2\\/2"
+                  },
+                  {
+                      "OutcomeId": 29183,
+                      "Outcome": "No Goal"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14358,
+              "Name": "Last Team to Score",
+              "Nickname": "LTS",
+              "o": [
+                  {
+                      "OutcomeId": 29184,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29185,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29186,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14359,
+              "Name": "Last Team To Score 2Way",
+              "Nickname": "LTS 2W",
+              "o": [
+                  {
+                      "OutcomeId": 29187,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29188,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14360,
+              "Name": "1x2",
+              "Nickname": "1x2",
+              "o": [
+                  {
+                      "OutcomeId": 29189,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29190,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29191,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14361,
+              "Name": "1x2 Half 1",
+              "Nickname": "1x2 H1",
+              "o": [
+                  {
+                      "OutcomeId": 29192,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29193,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29194,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14362,
+              "Name": "1x2 Half 2",
+              "Nickname": "1x2 H2",
+              "o": [
+                  {
+                      "OutcomeId": 29195,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29196,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29197,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14363,
+              "Name": "1x2 - 10 Minutes",
+              "Nickname": "1x2-10M",
+              "o": [
+                  {
+                      "OutcomeId": 29198,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29199,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29200,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14364,
+              "Name": "1x2 - 15 Minutes",
+              "Nickname": "1x2-15M",
+              "o": [
+                  {
+                      "OutcomeId": 29201,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29202,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29203,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14365,
+              "Name": "1x2 - 30 Minutes",
+              "Nickname": "1x2-30M",
+              "o": [
+                  {
+                      "OutcomeId": 29204,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29205,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29206,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14366,
+              "Name": "1x2 - 60 Minutes",
+              "Nickname": "1x2-60M",
+              "o": [
+                  {
+                      "OutcomeId": 29207,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29208,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29209,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14367,
+              "Name": "1x2 - 75 Minutes",
+              "Nickname": "1x2-75M",
+              "o": [
+                  {
+                      "OutcomeId": 29210,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29211,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29212,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14368,
+              "Name": "Double Chance",
+              "Nickname": "DC",
+              "o": [
+                  {
+                      "OutcomeId": 29213,
+                      "Outcome": "1X"
+                  },
+                  {
+                      "OutcomeId": 29214,
+                      "Outcome": "12"
+                  },
+                  {
+                      "OutcomeId": 29215,
+                      "Outcome": "X2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14369,
+              "Name": "Double Chance Half 1",
+              "Nickname": "DC H1",
+              "o": [
+                  {
+                      "OutcomeId": 29216,
+                      "Outcome": "1X"
+                  },
+                  {
+                      "OutcomeId": 29217,
+                      "Outcome": "12"
+                  },
+                  {
+                      "OutcomeId": 29218,
+                      "Outcome": "X2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14370,
+              "Name": "Double Chance Half 2",
+              "Nickname": "DC H2",
+              "o": [
+                  {
+                      "OutcomeId": 29219,
+                      "Outcome": "1X"
+                  },
+                  {
+                      "OutcomeId": 29220,
+                      "Outcome": "12"
+                  },
+                  {
+                      "OutcomeId": 29221,
+                      "Outcome": "X2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14371,
+              "Name": "Halftime\\/Fulltime",
+              "Nickname": "HT\\/FT",
+              "o": [
+                  {
+                      "OutcomeId": 29222,
+                      "Outcome": "1-1"
+                  },
+                  {
+                      "OutcomeId": 29223,
+                      "Outcome": "1-X"
+                  },
+                  {
+                      "OutcomeId": 29224,
+                      "Outcome": "1-2"
+                  },
+                  {
+                      "OutcomeId": 29225,
+                      "Outcome": "X-1"
+                  },
+                  {
+                      "OutcomeId": 29226,
+                      "Outcome": "X-X"
+                  },
+                  {
+                      "OutcomeId": 29227,
+                      "Outcome": "X-2"
+                  },
+                  {
+                      "OutcomeId": 29228,
+                      "Outcome": "2-1"
+                  },
+                  {
+                      "OutcomeId": 29229,
+                      "Outcome": "2-X"
+                  },
+                  {
+                      "OutcomeId": 29230,
+                      "Outcome": "2-2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14372,
+              "Name": "Rest Of Match",
+              "Nickname": "ROM",
+              "o": [
+                  {
+                      "OutcomeId": 29231,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29232,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29233,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14373,
+              "Name": "Rest Of Match Half 1",
+              "Nickname": "ROM H1",
+              "o": [
+                  {
+                      "OutcomeId": 29234,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29235,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29236,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14374,
+              "Name": "Shenon Golin e 1",
+              "Nickname": "SG1",
+              "o": [
+                  {
+                      "OutcomeId": 29237,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29238,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29239,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14375,
+              "Name": "Shenon Golin e 2",
+              "Nickname": "SG2",
+              "o": [
+                  {
+                      "OutcomeId": 29240,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29241,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29242,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14376,
+              "Name": "Shenon Golin e 3",
+              "Nickname": "SG3",
+              "o": [
+                  {
+                      "OutcomeId": 29243,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29244,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29245,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14377,
+              "Name": "Shenon Golin e 4",
+              "Nickname": "SG4",
+              "o": [
+                  {
+                      "OutcomeId": 29246,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29247,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29248,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14378,
+              "Name": "Shenon Golin e 5",
+              "Nickname": "SG5",
+              "o": [
+                  {
+                      "OutcomeId": 29249,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29250,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29251,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14379,
+              "Name": "Shenon Golin e 6",
+              "Nickname": "SG6",
+              "o": [
+                  {
+                      "OutcomeId": 29252,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29253,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29254,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14380,
+              "Name": "Shenon Golin e 7",
+              "Nickname": "SG7",
+              "o": [
+                  {
+                      "OutcomeId": 29255,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29256,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29257,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14381,
+              "Name": "Shenon Golin e 8",
+              "Nickname": "SG8",
+              "o": [
+                  {
+                      "OutcomeId": 29258,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29259,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29260,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14382,
+              "Name": "Shenon Golin e 9",
+              "Nickname": "SG9",
+              "o": [
+                  {
+                      "OutcomeId": 29261,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29262,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29263,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14383,
+              "Name": "Shenon Golin e 11",
+              "Nickname": "SG11",
+              "o": [
+                  {
+                      "OutcomeId": 29264,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29265,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29266,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14384,
+              "Name": "Shenon Golin e 12",
+              "Nickname": "SG12",
+              "o": [
+                  {
+                      "OutcomeId": 29267,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29268,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29269,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14385,
+              "Name": "Shenon Golin e 13",
+              "Nickname": "SG13",
+              "o": [
+                  {
+                      "OutcomeId": 29270,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29271,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29272,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14386,
+              "Name": "Shenon Golin e 14",
+              "Nickname": "SG14",
+              "o": [
+                  {
+                      "OutcomeId": 29273,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29274,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29275,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14387,
+              "Name": "Shenon Golin e 15",
+              "Nickname": "SG15",
+              "o": [
+                  {
+                      "OutcomeId": 29276,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29277,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29278,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14388,
+              "Name": "Shenon Golin e 16",
+              "Nickname": "SG16",
+              "o": [
+                  {
+                      "OutcomeId": 29279,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29280,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29281,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14389,
+              "Name": "Shenon Golin e 17",
+              "Nickname": "SG17",
+              "o": [
+                  {
+                      "OutcomeId": 29282,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29283,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29284,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14390,
+              "Name": "Shenon Golin e 10",
+              "Nickname": "SG10",
+              "o": [
+                  {
+                      "OutcomeId": 29285,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29286,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29287,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14391,
+              "Name": "Half Time \\/ Fulltime - Total Goals",
+              "Nickname": "HT\\/FT-TG",
+              "o": [
+                  {
+                      "OutcomeId": 29288,
+                      "Outcome": "1\\/1-O"
+                  },
+                  {
+                      "OutcomeId": 29289,
+                      "Outcome": "2\\/2-O"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14392,
+              "Name": "1x2 Halftime or Fulltime",
+              "Nickname": "1x2 HT*FT",
+              "o": [
+                  {
+                      "OutcomeId": 29290,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29291,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29292,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14393,
+              "Name": "First Goal Scorer",
+              "Nickname": "FGS",
+              "o": [
+                  {
+                      "OutcomeId": 29293,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14394,
+              "Name": "Last Goal Scorer",
+              "Nickname": "LGS",
+              "o": [
+                  {
+                      "OutcomeId": 29294,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14395,
+              "Name": "Anytime Goal Scorer",
+              "Nickname": "AGS",
+              "o": [
+                  {
+                      "OutcomeId": 29295,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14396,
+              "Name": "Goal Scorer",
+              "Nickname": "GS",
+              "o": [
+                  {
+                      "OutcomeId": 29296,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14397,
+              "Name": "Total Goals",
+              "Nickname": "TG",
+              "o": [
+                  {
+                      "OutcomeId": 29297,
+                      "Outcome": "0-1"
+                  },
+                  {
+                      "OutcomeId": 29298,
+                      "Outcome": "0-2"
+                  },
+                  {
+                      "OutcomeId": 29299,
+                      "Outcome": "0-3"
+                  },
+                  {
+                      "OutcomeId": 29300,
+                      "Outcome": "0-4"
+                  },
+                  {
+                      "OutcomeId": 29301,
+                      "Outcome": "0-5"
+                  },
+                  {
+                      "OutcomeId": 29302,
+                      "Outcome": "1-2"
+                  },
+                  {
+                      "OutcomeId": 29303,
+                      "Outcome": "1-3"
+                  },
+                  {
+                      "OutcomeId": 29304,
+                      "Outcome": "1-4"
+                  },
+                  {
+                      "OutcomeId": 29305,
+                      "Outcome": "1-5"
+                  },
+                  {
+                      "OutcomeId": 29306,
+                      "Outcome": "1-6"
+                  },
+                  {
+                      "OutcomeId": 29307,
+                      "Outcome": "2-3"
+                  },
+                  {
+                      "OutcomeId": 29308,
+                      "Outcome": "2-4"
+                  },
+                  {
+                      "OutcomeId": 29309,
+                      "Outcome": "2-5"
+                  },
+                  {
+                      "OutcomeId": 29310,
+                      "Outcome": "2-6"
+                  },
+                  {
+                      "OutcomeId": 29311,
+                      "Outcome": "3-4"
+                  },
+                  {
+                      "OutcomeId": 29312,
+                      "Outcome": "3-5"
+                  },
+                  {
+                      "OutcomeId": 29313,
+                      "Outcome": "3-6"
+                  },
+                  {
+                      "OutcomeId": 29314,
+                      "Outcome": "4-5"
+                  },
+                  {
+                      "OutcomeId": 29315,
+                      "Outcome": "4-6"
+                  },
+                  {
+                      "OutcomeId": 29316,
+                      "Outcome": "5-6"
+                  },
+                  {
+                      "OutcomeId": 29317,
+                      "Outcome": "1+"
+                  },
+                  {
+                      "OutcomeId": 29318,
+                      "Outcome": "2+"
+                  },
+                  {
+                      "OutcomeId": 29319,
+                      "Outcome": "3+"
+                  },
+                  {
+                      "OutcomeId": 29320,
+                      "Outcome": "4+"
+                  },
+                  {
+                      "OutcomeId": 29321,
+                      "Outcome": "5+"
+                  },
+                  {
+                      "OutcomeId": 29322,
+                      "Outcome": "6+"
+                  },
+                  {
+                      "OutcomeId": 29323,
+                      "Outcome": "7+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14398,
+              "Name": "Total Goals Half 1",
+              "Nickname": "TG H1",
+              "o": [
+                  {
+                      "OutcomeId": 29324,
+                      "Outcome": "0-1"
+                  },
+                  {
+                      "OutcomeId": 29325,
+                      "Outcome": "0-2"
+                  },
+                  {
+                      "OutcomeId": 29326,
+                      "Outcome": "0-3"
+                  },
+                  {
+                      "OutcomeId": 29327,
+                      "Outcome": "1-2"
+                  },
+                  {
+                      "OutcomeId": 29328,
+                      "Outcome": "1-3"
+                  },
+                  {
+                      "OutcomeId": 29329,
+                      "Outcome": "2-3"
+                  },
+                  {
+                      "OutcomeId": 29330,
+                      "Outcome": "1+"
+                  },
+                  {
+                      "OutcomeId": 29331,
+                      "Outcome": "2+"
+                  },
+                  {
+                      "OutcomeId": 29332,
+                      "Outcome": "3+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14399,
+              "Name": "Total Goals Team 1",
+              "Nickname": "TG T1",
+              "o": [
+                  {
+                      "OutcomeId": 29333,
+                      "Outcome": "0-1"
+                  },
+                  {
+                      "OutcomeId": 29334,
+                      "Outcome": "0-2"
+                  },
+                  {
+                      "OutcomeId": 29335,
+                      "Outcome": "0-3"
+                  },
+                  {
+                      "OutcomeId": 29336,
+                      "Outcome": "1-2"
+                  },
+                  {
+                      "OutcomeId": 29337,
+                      "Outcome": "1-3"
+                  },
+                  {
+                      "OutcomeId": 29338,
+                      "Outcome": "2-3"
+                  },
+                  {
+                      "OutcomeId": 29339,
+                      "Outcome": "1+"
+                  },
+                  {
+                      "OutcomeId": 29340,
+                      "Outcome": "2+"
+                  },
+                  {
+                      "OutcomeId": 29341,
+                      "Outcome": "3+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14400,
+              "Name": "Total Goals Team 2",
+              "Nickname": "TG T2",
+              "o": [
+                  {
+                      "OutcomeId": 29342,
+                      "Outcome": "0-1"
+                  },
+                  {
+                      "OutcomeId": 29343,
+                      "Outcome": "0-2"
+                  },
+                  {
+                      "OutcomeId": 29344,
+                      "Outcome": "0-3"
+                  },
+                  {
+                      "OutcomeId": 29345,
+                      "Outcome": "1-2"
+                  },
+                  {
+                      "OutcomeId": 29346,
+                      "Outcome": "1-3"
+                  },
+                  {
+                      "OutcomeId": 29347,
+                      "Outcome": "2-3"
+                  },
+                  {
+                      "OutcomeId": 29348,
+                      "Outcome": "1+"
+                  },
+                  {
+                      "OutcomeId": 29349,
+                      "Outcome": "2+"
+                  },
+                  {
+                      "OutcomeId": 29350,
+                      "Outcome": "3+"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14412,
+              "Name": "1st Penalty",
+              "Nickname": "1P",
+              "o": [
+                  {
+                      "OutcomeId": 29384,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29385,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29386,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14413,
+              "Name": "Group A - Winner",
+              "Nickname": "GA-W",
+              "o": [
+                  {
+                      "OutcomeId": 29387,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14414,
+              "Name": "Group B - Winner",
+              "Nickname": "GB-W",
+              "o": [
+                  {
+                      "OutcomeId": 29388,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14415,
+              "Name": "Group C - Winner",
+              "Nickname": "GC-W",
+              "o": [
+                  {
+                      "OutcomeId": 29389,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14416,
+              "Name": "Group D - Winner",
+              "Nickname": "GD-W",
+              "o": [
+                  {
+                      "OutcomeId": 29390,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14417,
+              "Name": "Group E - Winner",
+              "Nickname": "GE-W",
+              "o": [
+                  {
+                      "OutcomeId": 29391,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14418,
+              "Name": "Group F - Winner",
+              "Nickname": "GF-W",
+              "o": [
+                  {
+                      "OutcomeId": 29392,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14419,
+              "Name": "Group G - Winner",
+              "Nickname": "GG-W",
+              "o": [
+                  {
+                      "OutcomeId": 29393,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14420,
+              "Name": "Group H - Winner",
+              "Nickname": "GH-W",
+              "o": [
+                  {
+                      "OutcomeId": 29394,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14421,
+              "Name": "Group A - To Qualify",
+              "Nickname": "GA-TQ",
+              "o": [
+                  {
+                      "OutcomeId": 29395,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14422,
+              "Name": "Group B - To Qualify",
+              "Nickname": "GB-TQ",
+              "o": [
+                  {
+                      "OutcomeId": 29396,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14423,
+              "Name": "Group C - To Qualify",
+              "Nickname": "GC-TQ",
+              "o": [
+                  {
+                      "OutcomeId": 29397,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14424,
+              "Name": "Group D - To Qualify",
+              "Nickname": "GD-TQ",
+              "o": [
+                  {
+                      "OutcomeId": 29398,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14425,
+              "Name": "Group E - To Qualify",
+              "Nickname": "GE-TQ",
+              "o": [
+                  {
+                      "OutcomeId": 29399,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14426,
+              "Name": "Group F - To Qualify",
+              "Nickname": "GF-TQ",
+              "o": [
+                  {
+                      "OutcomeId": 29400,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14427,
+              "Name": "Group G - To Qualify",
+              "Nickname": "GG-TQ",
+              "o": [
+                  {
+                      "OutcomeId": 29401,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14428,
+              "Name": "Group H - To Qualify",
+              "Nickname": "GH-TQ",
+              "o": [
+                  {
+                      "OutcomeId": 29402,
+                      "Outcome": "o"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14429,
+              "Name": "ET-Score 2 Goal",
+              "Nickname": "ET-S2G",
+              "o": [
+                  {
+                      "OutcomeId": 29403,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29404,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29405,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14430,
+              "Name": "ET-Score 3 Goal",
+              "Nickname": "ET-S3G",
+              "o": [
+                  {
+                      "OutcomeId": 29406,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29407,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29408,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14431,
+              "Name": "ET-Score 4 Goal",
+              "Nickname": "ET-S4G",
+              "o": [
+                  {
+                      "OutcomeId": 29409,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29410,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29411,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14432,
+              "Name": "ET-Score 5 Goal",
+              "Nickname": "ET-S5G",
+              "o": [
+                  {
+                      "OutcomeId": 29412,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29413,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29414,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14433,
+              "Name": "ET-Score 6 Goal",
+              "Nickname": "ET-S6G",
+              "o": [
+                  {
+                      "OutcomeId": 29415,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29416,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29417,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14434,
+              "Name": "ET-Score 7 Goal",
+              "Nickname": "ET-S7G",
+              "o": [
+                  {
+                      "OutcomeId": 29418,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29419,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29420,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14435,
+              "Name": "ET-Score 8 Goal",
+              "Nickname": "ET-S8G",
+              "o": [
+                  {
+                      "OutcomeId": 29421,
+                      "Outcome": "1"
+                  },
+                  {
+                      "OutcomeId": 29422,
+                      "Outcome": "X"
+                  },
+                  {
+                      "OutcomeId": 29423,
+                      "Outcome": "2"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14436,
+              "Name": "ET-Corner Line",
+              "Nickname": "ET-CL",
+              "o": [
+                  {
+                      "OutcomeId": 29424,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 29425,
+                      "Outcome": "Under"
+                  }
+              ]
+          },
+          {
+              "GameTypeId": 14437,
+              "Name": "ET-Corners 3 way",
+              "Nickname": "ET-C3W",
+              "o": [
+                  {
+                      "OutcomeId": 29426,
+                      "Outcome": "Over"
+                  },
+                  {
+                      "OutcomeId": 29427,
+                      "Outcome": "Exactly"
+                  },
+                  {
+                      "OutcomeId": 29428,
+                      "Outcome": "Under"
+                  }
+              ]
+          }
+      ]
+  }
+]
